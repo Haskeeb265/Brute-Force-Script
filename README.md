@@ -1,0 +1,1 @@
+This is a very high level implementation of a Brute-Force Attack of 4 spaces long digits and ascii passwords. The purpose of this repository is to show the time difference between the brute forcing a 4 digit digits only password versus a 4 digit ascii characters passowrd.
